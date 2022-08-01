@@ -1,0 +1,15 @@
+C:\Users\swaaa\RiderProjects\JogoDaVeia\JogoDaVeia\bin\Debug\net6.0\JogoDaVeia.exe
+C:\Users\swaaa\RiderProjects\JogoDaVeia\JogoDaVeia\bin\Debug\net6.0\JogoDaVeia.deps.json
+C:\Users\swaaa\RiderProjects\JogoDaVeia\JogoDaVeia\bin\Debug\net6.0\JogoDaVeia.runtimeconfig.json
+C:\Users\swaaa\RiderProjects\JogoDaVeia\JogoDaVeia\bin\Debug\net6.0\JogoDaVeia.dll
+C:\Users\swaaa\RiderProjects\JogoDaVeia\JogoDaVeia\bin\Debug\net6.0\JogoDaVeia.pdb
+C:\Users\swaaa\RiderProjects\JogoDaVeia\JogoDaVeia\obj\Debug\net6.0\JogoDaVeia.csproj.AssemblyReference.cache
+C:\Users\swaaa\RiderProjects\JogoDaVeia\JogoDaVeia\obj\Debug\net6.0\JogoDaVeia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swaaa\RiderProjects\JogoDaVeia\JogoDaVeia\obj\Debug\net6.0\JogoDaVeia.AssemblyInfoInputs.cache
+C:\Users\swaaa\RiderProjects\JogoDaVeia\JogoDaVeia\obj\Debug\net6.0\JogoDaVeia.AssemblyInfo.cs
+C:\Users\swaaa\RiderProjects\JogoDaVeia\JogoDaVeia\obj\Debug\net6.0\JogoDaVeia.csproj.CoreCompileInputs.cache
+C:\Users\swaaa\RiderProjects\JogoDaVeia\JogoDaVeia\obj\Debug\net6.0\JogoDaVeia.dll
+C:\Users\swaaa\RiderProjects\JogoDaVeia\JogoDaVeia\obj\Debug\net6.0\refint\JogoDaVeia.dll
+C:\Users\swaaa\RiderProjects\JogoDaVeia\JogoDaVeia\obj\Debug\net6.0\JogoDaVeia.pdb
+C:\Users\swaaa\RiderProjects\JogoDaVeia\JogoDaVeia\obj\Debug\net6.0\JogoDaVeia.genruntimeconfig.cache
+C:\Users\swaaa\RiderProjects\JogoDaVeia\JogoDaVeia\obj\Debug\net6.0\ref\JogoDaVeia.dll
